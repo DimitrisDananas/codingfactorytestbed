@@ -1,7 +1,7 @@
 package gr.aueb.cf.ch1;
 
 /**
- * Εκτυπώνει τα αρχικα του ονοματος μου με αστερακια
+ * Prints two triangles of stars.
  */
 public class InitialsApp {
     public static void main(String[] args) {

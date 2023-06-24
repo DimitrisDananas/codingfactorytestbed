@@ -1,7 +1,7 @@
 package gr.aueb.cf.ch1;
 
 /**
- *Εκτυπωνει το αποτελεσμα της προσθεσης δυο ακεραιων
+ *Prints the result of two numbers.
  */
 public class AddApp {
     public static void main(String[] args) {

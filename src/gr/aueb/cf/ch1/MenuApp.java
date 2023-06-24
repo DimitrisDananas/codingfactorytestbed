@@ -1,7 +1,7 @@
 package gr.aueb.cf.ch1;
 
 /**
- *Εκτυπωνει ενα μενου με 5 επιλογες
+ *Prints a menu with 5 choices.
  */
 public class MenuApp {
     public static void main(String[] args) {
